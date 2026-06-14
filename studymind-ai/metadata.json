@@ -1,0 +1,6 @@
+{
+  "name": "StudyMind AI",
+  "description": "An AI-powered study assistant that generates smart notes, flashcards, MCQ quizzes, explanations, and summaries, with support for Malayalam, powered by Groq LLaMA 3.3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
